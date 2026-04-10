@@ -30,6 +30,10 @@ TrendPulse is a Python-based data analysis project that collects trending storie
 * Displayed top trending words
 * Saved graph as `trend_graph.png`
 
+### ✅ Task 4: Insights Generation
+- Analyzed top trends
+- Identified most trending topic
+- Generated final conclusions from data
 ---
 
 ## 📂 Project Structure
